@@ -1,0 +1,20 @@
+{
+    "username":[
+        "standard_user",
+        "locked_out_user",
+        "locked_out_user",
+        "performance_glitch_user"
+    ],
+    
+    "password": "secret_sauce",
+    
+
+    "homePageTitle": "Swag Labs",
+    "productsPageTitle": "Products",
+
+
+    "FirstName": "Albert",
+    "LastName": "Einstein",
+    "ZipCode": "18791955"
+
+}
